@@ -1,0 +1,17 @@
+body{
+
+   }
+.navbar-collapse{
+    background-color: orangered;
+}
+.item {
+
+    height: 400px;
+}
+.wanted img{
+
+    height: 300px;
+}
+footer {
+    background-color: orangered;
+}
